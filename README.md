@@ -13,9 +13,9 @@ A score-margin-based mathematical model estimating relative strength for the 16 
 
 ## Visual results
 ### Official vs model rankings
-![Ranking comparison](figures/ranking_comparison_bar.png)
+![Ranking comparison](figures/Ranking_Comparison_Bar.png)
 ### Ranking movement
-![Slope chart](figures/ranking_comparison_slope.png)
+![Slope chart](figures/Ranking_Comparison_Slope.png)
 ### Actual vs predicted margins
 ![Scatter plot](figures/actual_vs_predicted_scatter.png)
 
