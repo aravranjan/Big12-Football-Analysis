@@ -1,0 +1,13 @@
+Ratings are model estimates, not official rankings.
+games_used_to_fit: 72
+teams: 16
+mean_absolute_error_points: 9.2512
+root_mean_squared_error_points: 12.0365
+winners_correct: 59 of 72 (in-sample)
+matrix_rank_without_sum_row: 15
+matrix_rank_with_sum_row: 16
+connected_games_network: True
+sum_of_ratings: -0.000000
+
+Held-out games (not used to fit):
+  BYU Cougars 7 - 34 Texas Tech Red Raiders: model gap -15.48, real gap -27, winner correct: True

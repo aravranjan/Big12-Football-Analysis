@@ -1,0 +1,73 @@
+Date,Team_A,Score_A,Team_B,Score_B,Real_Gap,Predicted_Gap,Miss_Predicted_minus_Real
+2025-08-23,Kansas State Wildcats,21.0,Iowa State Cyclones,24.0,-3.0,2.43,5.43
+2025-09-12,Houston Cougars,36.0,Colorado Buffaloes,20.0,16.0,13.17,-2.83
+2025-09-20,Utah Utes,10.0,Texas Tech Red Raiders,34.0,-24.0,-7.81,16.19
+2025-09-20,Kansas Jayhawks,41.0,West Virginia Mountaineers,10.0,31.0,11.48,-19.52
+2025-09-20,Baylor Bears,24.0,Arizona State Sun Devils,27.0,-3.0,-5.01,-2.01
+2025-09-26,Arizona State Sun Devils,27.0,TCU Horned Frogs,24.0,3.0,2.02,-0.98
+2025-09-27,Kansas Jayhawks,34.0,Cincinnati Bearcats,37.0,-3.0,-2.59,0.41
+2025-09-27,Kansas State Wildcats,34.0,UCF Knights,20.0,14.0,13.07,-0.93
+2025-09-27,Oklahoma State Cowboys,27.0,Baylor Bears,45.0,-18.0,-12.65,5.35
+2025-09-27,West Virginia Mountaineers,14.0,Utah Utes,48.0,-34.0,-31.91,2.09
+2025-09-27,Iowa State Cyclones,39.0,Arizona Wildcats,14.0,25.0,-4.34,-29.34
+2025-09-27,Colorado Buffaloes,21.0,BYU Cougars,24.0,-3.0,-24.36,-21.36
+2025-10-03,BYU Cougars,38.0,West Virginia Mountaineers,24.0,14.0,24.24,10.24
+2025-10-04,Baylor Bears,35.0,Kansas State Wildcats,34.0,1.0,-8.66,-9.66
+2025-10-04,Cincinnati Bearcats,38.0,Iowa State Cyclones,30.0,8.0,-1.2,-9.2
+2025-10-04,Arizona Wildcats,41.0,Oklahoma State Cowboys,13.0,28.0,23.21,-4.79
+2025-10-04,Houston Cougars,11.0,Texas Tech Red Raiders,35.0,-24.0,-26.68,-2.68
+2025-10-04,UCF Knights,20.0,Kansas Jayhawks,27.0,-7.0,-6.85,0.15
+2025-10-04,TCU Horned Frogs,35.0,Colorado Buffaloes,21.0,14.0,12.16,-1.84
+2025-10-11,Oklahoma State Cowboys,17.0,Houston Cougars,39.0,-22.0,-16.64,5.36
+2025-10-11,Cincinnati Bearcats,20.0,UCF Knights,11.0,9.0,9.44,0.44
+2025-10-11,Iowa State Cyclones,17.0,Colorado Buffaloes,24.0,-7.0,15.4,22.4
+2025-10-11,Kansas State Wildcats,41.0,TCU Horned Frogs,28.0,13.0,5.67,-7.33
+2025-10-11,Texas Tech Red Raiders,42.0,Kansas Jayhawks,17.0,25.0,28.24,3.24
+2025-10-11,Arizona Wildcats,27.0,BYU Cougars,33.0,-6.0,-4.63,1.37
+2025-10-11,Utah Utes,42.0,Arizona State Sun Devils,10.0,32.0,17.85,-14.15
+2025-10-18,Houston Cougars,31.0,Arizona Wildcats,28.0,3.0,-6.57,-9.57
+2025-10-18,TCU Horned Frogs,42.0,Baylor Bears,36.0,6.0,2.98,-3.02
+2025-10-18,UCF Knights,45.0,West Virginia Mountaineers,13.0,32.0,4.64,-27.36
+2025-10-18,Arizona State Sun Devils,26.0,Texas Tech Red Raiders,22.0,4.0,-25.66,-29.66
+2025-10-18,BYU Cougars,24.0,Utah Utes,21.0,3.0,-7.67,-10.67
+2025-10-18,Oklahoma State Cowboys,17.0,Cincinnati Bearcats,49.0,-32.0,-17.67,14.33
+2025-10-25,Kansas Jayhawks,17.0,Kansas State Wildcats,42.0,-25.0,-6.23,18.77
+2025-10-25,Iowa State Cyclones,27.0,BYU Cougars,41.0,-14.0,-8.96,5.04
+2025-10-25,Cincinnati Bearcats,41.0,Baylor Bears,20.0,21.0,5.02,-15.98
+2025-10-25,Texas Tech Red Raiders,42.0,Oklahoma State Cowboys,0.0,42.0,43.32,1.32
+2025-10-25,West Virginia Mountaineers,17.0,TCU Horned Frogs,23.0,-6.0,-12.04,-6.04
+2025-10-25,Arizona State Sun Devils,16.0,Houston Cougars,24.0,-8.0,1.02,9.02
+2025-10-25,Utah Utes,53.0,Colorado Buffaloes,7.0,46.0,32.04,-13.96
+2025-11-01,Baylor Bears,30.0,UCF Knights,3.0,27.0,4.42,-22.58
+2025-11-01,Houston Cougars,35.0,West Virginia Mountaineers,45.0,-10.0,13.04,23.04
+2025-11-01,Iowa State Cyclones,19.0,Arizona State Sun Devils,24.0,-5.0,1.22,6.22
+2025-11-01,Kansas State Wildcats,20.0,Texas Tech Red Raiders,43.0,-23.0,-22.01,0.99
+2025-11-01,Kansas Jayhawks,38.0,Oklahoma State Cowboys,21.0,17.0,15.08,-1.92
+2025-11-01,Colorado Buffaloes,17.0,Arizona Wildcats,52.0,-35.0,-19.73,15.27
+2025-11-01,Utah Utes,45.0,Cincinnati Bearcats,14.0,31.0,17.84,-13.16
+2025-11-07,UCF Knights,27.0,Houston Cougars,30.0,-3.0,-8.41,-5.41
+2025-11-08,Texas Tech Red Raiders,29.0,BYU Cougars,7.0,22.0,15.48,-6.52
+2025-11-08,West Virginia Mountaineers,29.0,Colorado Buffaloes,22.0,7.0,0.12,-6.88
+2025-11-08,Arizona Wildcats,24.0,Kansas Jayhawks,20.0,4.0,8.13,4.13
+2025-11-08,TCU Horned Frogs,17.0,Iowa State Cyclones,20.0,-3.0,-3.24,-0.24
+2025-11-15,Cincinnati Bearcats,24.0,Arizona Wildcats,30.0,-6.0,-5.54,0.46
+2025-11-15,Oklahoma State Cowboys,6.0,Kansas State Wildcats,14.0,-8.0,-21.31,-13.31
+2025-11-15,Arizona State Sun Devils,25.0,West Virginia Mountaineers,23.0,2.0,14.06,12.06
+2025-11-15,Texas Tech Red Raiders,48.0,UCF Knights,9.0,39.0,35.08,-3.92
+2025-11-15,Baylor Bears,28.0,Utah Utes,55.0,-27.0,-22.86,4.14
+2025-11-15,BYU Cougars,44.0,TCU Horned Frogs,13.0,31.0,12.2,-18.8
+2025-11-22,Iowa State Cyclones,38.0,Kansas Jayhawks,14.0,24.0,3.79,-20.21
+2025-11-22,Arizona Wildcats,41.0,Baylor Bears,17.0,24.0,10.56,-13.44
+2025-11-22,UCF Knights,17.0,Oklahoma State Cowboys,14.0,3.0,8.24,5.24
+2025-11-22,Utah Utes,51.0,Kansas State Wildcats,47.0,4.0,14.2,10.2
+2025-11-22,Houston Cougars,14.0,TCU Horned Frogs,17.0,-3.0,1.01,4.01
+2025-11-22,Cincinnati Bearcats,14.0,BYU Cougars,26.0,-12.0,-10.17,1.83
+2025-11-22,Colorado Buffaloes,17.0,Arizona State Sun Devils,42.0,-25.0,-14.18,10.82
+2025-11-28,Kansas Jayhawks,21.0,Utah Utes,31.0,-10.0,-20.43,-10.43
+2025-11-28,Arizona State Sun Devils,7.0,Arizona Wildcats,23.0,-16.0,-5.55,10.45
+2025-11-29,West Virginia Mountaineers,0.0,Texas Tech Red Raiders,49.0,-49.0,-39.72,9.28
+2025-11-29,Oklahoma State Cowboys,13.0,Iowa State Cyclones,20.0,-7.0,-18.88,-11.88
+2025-11-29,Baylor Bears,24.0,Houston Cougars,31.0,-7.0,-3.99,3.01
+2025-11-29,Kansas State Wildcats,24.0,Colorado Buffaloes,14.0,10.0,17.83,7.83
+2025-11-29,BYU Cougars,41.0,UCF Knights,21.0,20.0,19.6,-0.4
+2025-11-29,TCU Horned Frogs,45.0,Cincinnati Bearcats,23.0,22.0,-2.04,-24.04
