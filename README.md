@@ -48,4 +48,5 @@ For a game between Team A and Team B, `r_A - r_B ≈ score_A - score_B`. The 72 
 Home advantage, injuries and player availability are not modelled. The official comparison depends on the standings order supplied for the analysis. In-sample fit metrics are not a substitute for testing on a larger unseen sample.
 
 ## Data note
-Before making this repository public, confirm that you have permission to redistribute the Excel workbook. If not, remove it from the repository and explain how to obtain the data.
+The dataset used in this project is included in the `data/` directory.
+It contains the 2025 Big 12 football match results used for mathematical modelling and ranking analysis.
